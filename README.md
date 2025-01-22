@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! I'm VUstudent141 👋
 
-<!--
-**VUstudent141/VUstudent141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E95F7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Learning+and+Growing+Every+Day" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+## 🎓 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ Computer Science student passionate about coding and problem-solving
+- 🌱 Currently learning and exploring various aspects of Computer Science
+- 💡 Interested in software development and algorithms
+- 📚 Always eager to learn new technologies
+
+## 🛠️ Tech Stack
+
+```python
+skills = {
+    'Programming Languages': ['Python', 'Java', 'C++'],
+    'Web Development': ['HTML', 'CSS', 'JavaScript'],
+    'Tools & Technologies': ['Git', 'VS Code', 'Linux'],
+    'Computer Science': ['Data Structures', 'Algorithms', 'Database Systems']
+}
